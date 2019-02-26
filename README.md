@@ -29,3 +29,4 @@ The final two categories represent competitions held by the IEEE Conferency on C
 
 ## Contributors
 1. Will Kaczmarek
+2. Dominic Harshaw
